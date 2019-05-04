@@ -26,8 +26,6 @@ With the above requirements,
 3. Run 'python3 manage.py runserver'
 4. Go to `http://127.0.0.1:8000/` in your browser.
 
-#### For training the model and customizing.
-
 ### Results
 
 ![home page](images/img2.png)
