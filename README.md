@@ -8,7 +8,7 @@ This is a project for creating a web app that can classify whether person in ima
 2. Keras with tensorflow backend.
 3. Django
 
-####  For Training and customization 
+####  For Model Training
 With the above requirements,
 
 1. Numpy
