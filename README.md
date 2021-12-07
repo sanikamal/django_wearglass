@@ -1,5 +1,5 @@
 # django_wearglass
-This is a project for creating a webb app that can classify whether person in images wear eye glass or not.
+This is a project for creating a web app that can classify whether person in images wear eye glass or not.
 
 ### Requirements
 ####  For Web app
